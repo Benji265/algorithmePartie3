@@ -1,0 +1,8 @@
+Algorithme BankAccountTotal
+
+bankAccount: integer
+
+While bankAccount > 0 do
+    Write("Il vous reste" bankAccount)
+    bankAccount <- bankAccount - 50
+endwhile
