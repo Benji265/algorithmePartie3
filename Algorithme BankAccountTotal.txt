@@ -2,6 +2,8 @@ Algorithme BankAccountTotal
 
 bankAccount: integer
 
+bankAccount <- 500
+
 While bankAccount > 0 do
     Write("Il vous reste" bankAccount)
     bankAccount <- bankAccount - 50
